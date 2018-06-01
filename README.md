@@ -4,7 +4,7 @@ This section imports data for the analysis of wheather patterns in Silicon Valle
 
 Processing of the data is described in the [next section](https://eagronin.github.io/sv-weather-prepare/).
  
-The data was downloaded from the Coursera website.  The original source of the data is The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily).  The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.  Each row in the datafile corresponds to a single observation on daily minimum and maximum temperature recorded by weather stations located in Silicon Valley, in the vicinity of Sunnyvale, CA.
+The data was downloaded from the Coursera website.  The original source of the data is The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily).  The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.  Each row in the datafile corresponds to a single observation on daily record temperature as reported by weather stations located in Silicon Valley, in the vicinity of Sunnyvale, CA.
 
 The following features are available:
 
