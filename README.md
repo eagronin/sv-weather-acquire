@@ -6,6 +6,10 @@ This section describes and imports data on weather in Silicon Valley.  The analy
 
 Data cleaning and processing are described in the [next section](https://eagronin.github.io/sv-weather-prepare/).
  
+This project is based on assignments from Applied Plotting, Charting & Data Representation in Python by University of Michigan on Coursera
+
+The analysis for this project was performed in Python.
+
 ## Data
 
 The data was downloaded from the Coursera website.  The original source of the data is The National Centers for Environmental Information (NCEI) [Daily Global Historical Climatology Network](https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/readme.txt) (GHCN-Daily).  The GHCN-Daily is comprised of daily climate records from thousands of land surface stations across the globe.  Each row in the datafile corresponds to a single observation on daily record temperature as reported by weather stations located in Silicon Valley, in the vicinity of Sunnyvale, CA.
